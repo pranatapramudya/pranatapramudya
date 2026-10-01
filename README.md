@@ -105,8 +105,9 @@
 
 [![Email](https://img.shields.io/badge/Email-pranatapramudya39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranatapramudya39@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pranatapramudya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranatapramudya)
-[![TikTok](https://img.shields.io/badge/TikTok-@pranajayatech-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pranajayatech)
-[![YouTube](https://img.shields.io/badge/YouTube-@pranajayatech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pranajayatech)
+[![TikTok](https://img.shields.io/badge/-@pranajayatech-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pranajayatech)
+[![YouTube](https://img.shields.io/badge/-@pranajayatech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pranajayatech)
+[![LinkedIn](https://img.shields.io/badge/-Pranata%20Pramudya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranatapramudya-2a4427292/)
 
 ---
 
