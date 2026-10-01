@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **S.Kom Graduate** — Universitas Sangga Buana YPKP (UNSAP), 25 Agustus 2025
+- 🎓 **S.Kom Graduate** — Universitas Sebelas April (UNSAP) Sumedang, 25 Agustus 2025
 - 🏆 **Juara 1 ASN Berprestasi** — Aplikasi Rekam Medis Klinik (Sadulur Care)
 - 🔧 Solo builder of production-grade **SaaS**, **AI Agents**, and **automation systems**
 - 💼 Founder of **PJTech** — Custom software agency for Indonesian businesses
