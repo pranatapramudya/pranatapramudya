@@ -16,7 +16,7 @@
 - 🌱 Currently building **kasir-umkm** — Multi-vertical POS SaaS (Retail, F&B, Jasa, Rental) for Indonesian SMEs
 - 🤖 Building autonomous AI agents for sales, content, and job automation
 - 📦 Selling premium SaaS boilerplate at **LumeStack** (Gumroad)
-- 🎥 Content creator **@buildwithnata** — Faceless developer content on TikTok & YouTube
+- 🎥 Content creator **@pranajayatech** — Faceless developer content on TikTok & YouTube
 - 💡 Passionate about: system architecture, indie hacking, and building leverage through code
 
 ---
@@ -105,10 +105,12 @@
 
 [![Email](https://img.shields.io/badge/Email-pranatapramudya39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranatapramudya39@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pranatapramudya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranatapramudya)
-[![TikTok](https://img.shields.io/badge/TikTok-@buildwithnata-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@buildwithnata)
+[![TikTok](https://img.shields.io/badge/TikTok-@pranajayatech-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pranajayatech)
+[![YouTube](https://img.shields.io/badge/YouTube-@pranajayatech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pranajayatech)
 
 ---
 
 <p align="left">
   <i>"The best code is the code that works while you sleep."</i>
 </p>
+
