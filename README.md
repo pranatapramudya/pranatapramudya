@@ -103,11 +103,13 @@
 
 ### 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-pranatapramudya39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranatapramudya39@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-pranatapramudya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranatapramudya)
-[![TikTok](https://img.shields.io/badge/-@pranajayatech-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pranajayatech)
-[![YouTube](https://img.shields.io/badge/-@pranajayatech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pranajayatech)
-[![LinkedIn](https://img.shields.io/badge/-Pranata%20Pramudya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranatapramudya-2a4427292/)
+| Platform | Link |
+|---|---|
+| 📧 Email | [pranatapramudya39@gmail.com](mailto:pranatapramudya39@gmail.com) |
+| 🐙 GitHub | [github.com/pranatapramudya](https://github.com/pranatapramudya) |
+| 💼 LinkedIn | [Pranata Pramudya](https://www.linkedin.com/in/pranatapramudya-2a4427292/) |
+| 🎵 TikTok | [@pranajayatech](https://tiktok.com/@pranajayatech) |
+| 🔴 YouTube | [@pranajayatech](https://www.youtube.com/@pranajayatech) |
 
 ---
 
